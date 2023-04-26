@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @tangorodhrim
+- 👀 I’m interested in machine learning and Go
+- 🌱 I’m currently learning about physics and time
+- 💞️ I’m looking to collaborate on scientific projects
